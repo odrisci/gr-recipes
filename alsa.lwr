@@ -25,6 +25,7 @@ satisfy:
   pacman: alsa-lib
   port: portaudio
   portage: media-libs/portaudio
+  brew: portaudio
   pkgconfig: alsa
 source: git+http://git.alsa-project.org/alsa-lib.git
 gitrev: tags/v1.0.27.2

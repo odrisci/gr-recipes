@@ -26,6 +26,7 @@ inherit: cmake
 satisfy:
   deb: rtl-sdr && librtlsdr-dev
   port: rtl-sdr
+  brew: rtl-sdr
   portage: net-wireless/rtl-sdr
   pacman: rtl-sdr
 source: git+git://git.osmocom.org/rtl-sdr

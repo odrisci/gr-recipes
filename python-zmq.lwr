@@ -25,3 +25,4 @@ satisfy:
   pacman: python2-pyzmq
   portage: dev-python/pyzmq
   python: zmq
+  pip: pyzmq

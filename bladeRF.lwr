@@ -31,6 +31,7 @@ satisfy:
   port: bladeRF
   portage: net-wireless/bladerf
   pacman: bladerf
+  brew: libbladerf
 source: git+https://github.com/Nuand/bladeRF.git
 vars:
   config_opt: ' -DINSTALL_UDEV_RULES=OFF'

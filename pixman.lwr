@@ -24,4 +24,5 @@ satisfy:
   rpm: pixman-devel >= 0.18.4
   pacman: pixman
   port: libpixman >= 0.18.4
+  brew: pixman >= 0.18.4
 source: wget+https://launchpad.net/ubuntu/+archive/primary/+files/pixman_0.18.4.orig.tar.gz

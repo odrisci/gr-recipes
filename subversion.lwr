@@ -25,3 +25,4 @@ satisfy:
   pacman: subversion
   cmd: subversion --version
   port: subversion
+  brew: subversion

@@ -31,5 +31,6 @@ satisfy:
   pacman: cmake >= 3.1.0
   port: cmake >= 3.1.0
   portage: dev-util/cmake >= 3.1.0
+  brew: cmake >= 3.1.0
   cmd: cmake --version >= 3.1.0
 source: wget+http://cmake.org/files/v3.7/cmake-3.7.0.tar.gz

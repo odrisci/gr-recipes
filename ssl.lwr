@@ -25,3 +25,4 @@ satisfy:
   port: openssl
   portage: dev-libs/openssl
   pkgconfig: libssl || openssl
+  brew: openssl

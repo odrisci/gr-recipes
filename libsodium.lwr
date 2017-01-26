@@ -30,4 +30,5 @@ satisfy:
   rpm: libsodium-devel
   pacman: libsodium
   port: libsodium
+  brew: libsodium
 source: git+https://github.com/jedisct1/libsodium.git

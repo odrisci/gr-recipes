@@ -44,6 +44,7 @@ satisfy:
   rpm: wxPython
   port: wxPython-3.0 && py27-wxpython-3.0
   portage: dev-python/wxpython
+  brew: wxpython
   pacman: wxpython
 source: wget+http://prdownloads.sourceforge.net/wxpython/wxPython-src-2.8.11.0.tar.bz2
 vars:

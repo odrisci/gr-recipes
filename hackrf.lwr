@@ -29,6 +29,7 @@ makedir: host/build
 satisfy:
   deb: hackrf
   port: hackrf
+  brew: hackrf
   portage: net-wireless/hackrf-tools
   pacman: hackrf
 source: git+https://github.com/mossmann/hackrf.git

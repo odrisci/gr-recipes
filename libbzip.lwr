@@ -23,6 +23,7 @@ satisfy:
   deb: libbz2-dev
   rpm: bzip2-devel
   port: libzip
+  brew: libzip
   pacman: libzip
 inherit: autoconf
 configure: ''

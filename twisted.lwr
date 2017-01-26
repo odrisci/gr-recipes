@@ -23,6 +23,7 @@ satisfy:
   deb: python-twisted || python-twisted-core
   rpm: python2-twisted || python-twisted || python-twisted-core
   pacman: python2-twisted
+  pip: Twisted
   cmd: trial
   port: py27-twisted
   portage: dev-python/twisted-core

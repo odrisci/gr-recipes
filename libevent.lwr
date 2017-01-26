@@ -26,3 +26,4 @@ satisfy:
   pacman: libevent
   port: libevent
   portage: dev-libs/libevent
+  brew: libevent

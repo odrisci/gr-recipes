@@ -24,4 +24,5 @@ satisfy:
   cmd: wget --version
   pacman: wget
   port: wget
+  brew: wget
   portage: net-libs/wget

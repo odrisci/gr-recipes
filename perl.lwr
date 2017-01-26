@@ -24,3 +24,4 @@ satisfy:
   cmd: perl --version >= 5.0.0
   pacman: perl
   port: pearl
+  brew: perl

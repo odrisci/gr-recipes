@@ -22,4 +22,5 @@ satisfy:
   deb: libshout3-dev
   rpm: libshout-devel
   port: libshout2
+  brew: libshout
   pacman: libshout

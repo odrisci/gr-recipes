@@ -24,4 +24,5 @@ satisfy:
   rpm: glib2-devel >= 2.27.2
   pacman: glib2 >= 2.27.2
   port: glib2 >= 2.27.2
+  brew: glib2 >= 2.27.2
 source: wget+http://ftp.gnome.org/pub/gnome/sources/glib/2.27/glib-2.27.2.tar.bz2

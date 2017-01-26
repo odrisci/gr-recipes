@@ -24,4 +24,5 @@ satisfy:
   rpm: libpng-devel >= 1.2.41
   pacman: libpng
   port: libpng >= 1.2.41
+  brew: libpng >= 1.2.41
 source: wget+https://launchpad.net/ubuntu/+archive/primary/+files/libpng_1.2.42.orig.tar.bz2

@@ -23,4 +23,5 @@ satisfy:
   deb: libgflags-dev
   pacman: gflags
   port: gflags
+  brew: gflags
 source: wget+https://gflags.googlecode.com/files/gflags-2.0.tar.gz

@@ -25,3 +25,4 @@ satisfy:
   cmd: curl --version
   pacman: curl
   port: curl
+  brew: curl

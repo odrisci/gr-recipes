@@ -24,3 +24,4 @@ satisfy:
   rpm: libjpeg-devel || libjpeg-turbo-devel
   pacman: libjpeg-turbo
   port: jpeg
+  brew: jpeg

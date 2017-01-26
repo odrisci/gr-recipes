@@ -30,6 +30,7 @@ satisfy:
   pkgconfig: uhd
   pacman: libuhd
   port: uhd
+  brew: uhd
   portage: net-wireless/uhd
 source: git+https://github.com/EttusResearch/uhd.git
 gitbranch: master

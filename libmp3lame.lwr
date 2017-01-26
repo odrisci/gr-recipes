@@ -22,4 +22,5 @@ satisfy:
   deb: libmp3lame-dev
   rpm: lame-devel
   port: lame
+  brew: lame
   pacman: lame
