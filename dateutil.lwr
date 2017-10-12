@@ -25,4 +25,3 @@ description: Provides powerful extensions to the standard datetime module
 satisfy:
   pip: dateutil >= 2.6
 source: git+https://github.com/dateutil/dateutil.git
-

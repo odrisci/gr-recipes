@@ -24,6 +24,7 @@ inherit: autoconf
 satisfy:
   deb: libzmq3-dev
   rpm: cppzmq-devel || czmq-devel
+  brew: zeromq
   pacman: zeromq
   port: cppzmq
   portage: net-libs/cppzmq

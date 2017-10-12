@@ -20,6 +20,7 @@
 category: baseline
 satisfy:
   deb: libshout3-dev
+  brew: libshout
   rpm: libshout-devel
   port: libshout2
   pacman: libshout

@@ -21,6 +21,7 @@ category: baseline
 inherit: autoconf
 satisfy:
   deb: libgmp-dev
+  brew: gmp
   pacman: gmp
   port: gmp
 source: wget+http://ftp.gnu.org/gnu/gmp/gmp-6.1.0.tar.bz2

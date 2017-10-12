@@ -25,6 +25,7 @@ gitbranch: master
 inherit: cmake
 satisfy:
   deb: airspy
+  brew: airspy
   port: airspy
   pacman: airspy
 source: git+https://github.com/airspy/host.git

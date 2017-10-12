@@ -20,6 +20,7 @@
 category: baseline
 satisfy:
   deb: libmp3lame-dev
+  brew: lame
   rpm: lame-devel
   port: lame
   pacman: lame

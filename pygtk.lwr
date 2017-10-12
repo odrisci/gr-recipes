@@ -29,7 +29,12 @@ inherit: autoconf
 install_like: gtk2
 satisfy:
   deb: python-gtk2 >= 2.17
+<<<<<<< HEAD
   rpm: pygtk2-devel >= 2.17 || python-gtk-devel >= 2.17
+=======
+  brew: pygtk >= 2.17
+  rpm: pygtk2-devel >= 2.17
+>>>>>>> homebrew
   pacman: pygtk >= 2.17
   port: py27-pygtk >= 2.17
   portage: dev-python/pygtk >= 2.17

@@ -21,6 +21,7 @@ category: baseline
 inherit: autoconf
 satisfy:
   deb: libprotobuf-dev >= 2.6.1
+  brew: protobuf >= 2.6.1
   rpm: protobuf-devel >= 2.6.1
   port: protobuf-cpp >= 2.6.1 && py27-protobuf >= 2.6.1
   pacman: protobuf >= 2.6.1
